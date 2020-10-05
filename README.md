@@ -21,6 +21,45 @@ Summary:
 6. Work Life Balance 
 7. Monthly Income
 
+Total Attributes or Filed provided in the Excel:
+
+0	Age
+1	Attrition
+2	BusinessTravel
+3	DailyRate
+4	Department
+5	DistanceFromHome
+6	Education
+7	EducationField
+8	EmployeeCount
+9	EmployeeNumber
+10	EnvironmentSatisfaction
+11	Gender
+12	HourlyRate
+13	JobInvolvement
+14	JobLevel
+15	JobRole
+16	JobSatisfaction
+17	MaritalStatus
+18	MonthlyIncome
+19	MonthlyRate
+20	NumCompaniesWorked
+21	Over18
+22	OverTime
+23	PercentSalaryHike
+24	PerformanceRating
+25	RelationshipSatisfaction
+26	StandardHours
+27	StockOptionLevel
+28	TotalWorkingYears
+29	TrainingTimesLastYear
+30	WorkLifeBalance
+31	YearsAtCompany
+32	YearsInCurrentRole
+33	YearsSinceLastPromotion
+34	YearsWithCurrManager
+
+
 Code and Resources Used:
 
 Python Version: 3.7
